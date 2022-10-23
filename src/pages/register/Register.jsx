@@ -18,6 +18,7 @@ const Register = () => {
           <h2>Register</h2>
           <form action="">
             <input type="text" placeholder='username' />
+            <input type="email" placeholder='email' />
             <input type="password" placeholder='password' />
             <button>Register</button>
           </form>
