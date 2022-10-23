@@ -1,8 +1,9 @@
 import './navBar.scss';
 import { Link } from 'react-router-dom';
-import { AiOutlineHome } from 'react-icons/ai';
+import { AiOutlineHome, AiOutlineUser, AiOutlineMail } from 'react-icons/ai';
 import { HiOutlineMoon, HiSearch } from 'react-icons/hi';
 import { BiGridAlt } from 'react-icons/bi';
+import { IoMdNotificationsOutline } from 'react-icons/io';
 
 const NavBar = () => {
   return (
@@ -24,7 +25,13 @@ const NavBar = () => {
       </div>
 
       <div className="right">
-
+      <AiOutlineUser/>
+      <AiOutlineMail/>
+      <IoMdNotificationsOutline/>
+      <div className="user">
+        <img src="https://images.pexels.com/photos/4473796/pexels-photo-4473796.jpeg" alt="" />
+        <span>Hujaifa Hossain</span>
+      </div>
       </div>
     </div>
   );
