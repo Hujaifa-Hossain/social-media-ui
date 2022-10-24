@@ -7,4 +7,36 @@
   &::-webkit-scrollbar {
     display: none;
   }
+  .container {
+    .user-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      gap: 10px;
+      .user {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        img {
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          object-fit: cover;
+        }
+      }
+      .buttons {
+        display: flex;
+        gap: 10px;
+        &:first-child {
+          background-color: blue;
+          color: #fff;
+        }
+        &:last-child {
+          background-color: red;
+          color: #fff;
+        }
+      }
+    }
+  }
 }
