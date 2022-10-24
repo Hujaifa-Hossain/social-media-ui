@@ -10,46 +10,65 @@ const LeftBar = () => {
             <span>Hujaifa Hossain</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
             <span>Friends</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Marketing</span>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Groups</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Videos</span>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Marketplace</span>
+          </div>
+          <div className="item">
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Watch</span>
+          </div>
+          <div className="item">
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Memories</span>
           </div>
         </div>
         <hr />
         <div className="menu">
-        <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Friends</span>
+          <span>Your shrotcuts</span>
+          <div className="item">
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Events</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Marketing</span>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Gaming</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Gallery</span>
+          </div>
+          <div className="item">
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
             <span>Videos</span>
           </div>
-          <hr />
-          <div className="menu">
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Friends</span>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Messages</span>
+          </div>
+        </div>
+
+        <hr />
+        <div className="menu">
+        <span>Others</span>
+          <div className="item">
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Fundriser</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Marketing</span>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Tutorials</span>
           </div>
           <div className="item">
-            <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg" alt="" />
-            <span>Videos</span>
-          </div>
+            <img src="https://images.pexels.com/photos/5632346/pexels-photo-5632346.jpeg" alt="" />
+            <span>Courses</span>
           </div>
         </div>
 
